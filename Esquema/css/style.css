@@ -1,0 +1,81 @@
+
+body{
+  width:521px;
+  height:603px;
+  position:absolute;
+}
+
+.raya{
+  width:54px;
+  height:4px;
+  background:#000;
+  position: absolute;
+  top:39px;
+}
+
+.caballo{
+  background-image: url(../img/caballo.jpg);
+  background-size:100%;
+  width:146px;
+  height:146px;
+  position:absolute;
+  top:58px;
+}
+
+.canguro{
+  background-image: url(../img/canguro.jpg);
+  background-size:100%;
+  width:146px;
+  height:146px;
+  position:absolute;
+  top:58px;
+  left:181px;
+}
+.gorila{
+  background-image: url(../img/gorila.jpg);
+  background-size:100%;
+  width:146px;
+  height:146px;
+  position:absolute;
+  top:58px;
+  left:362px;
+}
+.panda{
+  background-image: url(../img/panda.png);
+  background-size:100%;
+  width:146px;
+  height:146px;
+  position:absolute;
+  top:239px;
+  left:0px;
+}
+.serpiente{
+  background-image: url(../img/serpiente.jpg);
+  background-size:100%;
+  width:146px;
+  height:146px;
+  position:absolute;
+  top:239px;
+  left:181px;
+}
+.tigre{
+  background-image: url(../img/tigre.jpg);
+  background-size:100%;
+  width:146px;
+  height:146px;
+  position:absolute;
+  top:239px;
+  left:362px;
+}
+
+p{
+  color:white;
+  position:absolute;
+  top:114px;
+  left:78px;
+  font-family:monospace;
+}
+
+h4{
+  font-family:monospace;
+}
